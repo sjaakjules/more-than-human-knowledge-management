@@ -2,7 +2,7 @@
 id: KjsCJQqZMlml0tZ2adxhZ
 title: Root
 desc: ''
-updated: 1642679588927
+updated: 1642681792219
 created: 1642678030919
 ---
 # Welcome to Dendron
@@ -19,7 +19,11 @@ If this text shows up then the actions is working.
 
 I think I had to unlink github and re-link it.
 
-![](2022-01-20-22-53-04.png)
+![test image 1](assets/images/2022-01-20-23-28-36.png)
+
+![test image 2](assets/images/2022-01-20-23-29-02.png)
+
+![test image 3](assets/images/2022-01-20-23-29-30.png)
 
 ## Lookup
 
