@@ -24,6 +24,8 @@ site:
     config:
         tags:
             publishByDefault: false
+        themes:
+            publishByDefault: false
 
 commands:
     lookup:
