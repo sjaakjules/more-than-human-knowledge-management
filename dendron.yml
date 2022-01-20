@@ -18,9 +18,9 @@ site:
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - vault
+            - Vault-Megafauna
     assetsPrefix: /more-than-human-knowledge-management
-    siteUrl: https://sjaakjules.github.io
+    siteUrl: 'https://sjaakjules.github.io'
 commands:
     lookup:
         note:
@@ -39,6 +39,12 @@ commands:
         enableMarker: false
 workspace:
     vaults:
+        -
+            fsPath: Vault-Megafauna
+            remote:
+                type: git
+                url: 'https://github.com/sjaakjules/Vault-Megafauna'
+            name: Vault-Megafauna
         -
             fsPath: vault
     journal:
