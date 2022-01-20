@@ -1,0 +1,23 @@
+{
+  "name": "more-than-human-knowledge-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjaakjules/more-than-human-knowledge-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjaakjules/more-than-human-knowledge-management/issues"
+  },
+  "homepage": "https://github.com/sjaakjules/more-than-human-knowledge-management#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.78.4"
+  }
+}
