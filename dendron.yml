@@ -12,7 +12,7 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: More-than-human Knowledge Management
-    description: Personal knowledge space
+    description: Ongoing research by Deep Design Lab.
     siteLastModified: true
     gh_edit_branch: main
     duplicateNoteBehavior:
@@ -25,6 +25,8 @@ site:
         tags:
             publishByDefault: false
         themes:
+            publishByDefault: false
+        project-structure:
             publishByDefault: false
 
 commands:
