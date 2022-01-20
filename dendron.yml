@@ -28,6 +28,8 @@ site:
             publishByDefault: false
         project-structure:
             publishByDefault: false
+        wip:
+            publishByDefault: false
 
 commands:
     lookup:
