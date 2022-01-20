@@ -19,9 +19,12 @@ site:
         action: useVault
         payload:
             - Vault-Megafauna
-            - vault
     assetsPrefix: /more-than-human-knowledge-management
     siteUrl: 'https://sjaakjules.github.io'
+    config:
+        tags:
+            publishByDefault: false
+
 commands:
     lookup:
         note:
