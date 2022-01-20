@@ -18,8 +18,8 @@ site:
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - vault
             - Vault-Megafauna
+            - vault
     assetsPrefix: /more-than-human-knowledge-management
     siteUrl: 'https://sjaakjules.github.io'
 commands:
