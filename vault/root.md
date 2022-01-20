@@ -2,7 +2,7 @@
 id: KjsCJQqZMlml0tZ2adxhZ
 title: Root
 desc: ''
-updated: 1642678208022
+updated: 1642679588927
 created: 1642678030919
 ---
 # Welcome to Dendron
@@ -12,6 +12,14 @@ This is the root of your dendron vault. If you decide to publish your entire vau
 ## Test post
 
 Here is some text.
+
+## With actions
+
+If this text shows up then the actions is working.
+
+I think I had to unlink github and re-link it.
+
+![](2022-01-20-22-53-04.png)
 
 ## Lookup
 
