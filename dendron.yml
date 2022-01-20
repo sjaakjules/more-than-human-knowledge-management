@@ -19,6 +19,8 @@ site:
         action: useVault
         payload:
             - vault
+    assetsPrefix: /more-than-human-knowledge-management
+    siteUrl: https://sjaakjules.github.io
 commands:
     lookup:
         note:
