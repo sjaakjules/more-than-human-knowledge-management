@@ -10,7 +10,6 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
-    customHeaderPath: header.html
     usePrettyRefs: true
     title: More-than-Human Knowledge Management
     description: Ongoing research by Deep Design Lab.
