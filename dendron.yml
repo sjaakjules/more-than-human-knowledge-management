@@ -10,17 +10,20 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
+    customHeaderPath: header.html
     usePrettyRefs: true
-    title: More-than-human Knowledge Management
+    title: More-than-Human Knowledge Management
     description: Ongoing research by Deep Design Lab.
     siteLastModified: true
     gh_edit_branch: main
+    logo: Vault-Megafauna/assets/images/logo.png
     duplicateNoteBehavior:
         action: useVault
         payload:
             - Vault-Megafauna
     assetsPrefix: /more-than-human-knowledge-management
     siteUrl: 'https://sjaakjules.github.io'
+    author: Deep Design Lab
     config:
         tags:
             publishByDefault: false
