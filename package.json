@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/sjaakjules/more-than-human-knowledge-management#readme",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.78.4"
+    "@dendronhq/dendron-cli": "^0.80.0"
   }
 }

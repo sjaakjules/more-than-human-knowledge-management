@@ -18,7 +18,7 @@ site:
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - Vault-Megaflora
+            - megaflora
     assetsPrefix: /more-than-human-knowledge-management
     siteUrl: 'https://sjaakjules.github.io'
     author: Deep Design Lab
@@ -51,11 +51,11 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: Vault-Megaflora
+            fsPath: megaflora
             remote:
                 type: git
-                url: 'https://github.com/sjaakjules/Vault-Megaflora'
-            name: Vault-Megaflora
+                url: 'https://github.com/sjaakjules/megaflora'
+            name: megaflora
     journal:
         dailyDomain: daily
         name: journal
