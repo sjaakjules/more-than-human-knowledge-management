@@ -19,7 +19,7 @@ site:
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - Vault-megaflora
+            - Vault-Megaflora
     assetsPrefix: /more-than-human-knowledge-management
     siteUrl: 'https://sjaakjules.github.io'
     author: Deep Design Lab
@@ -32,7 +32,6 @@ site:
             publishByDefault: false
         wip:
             publishByDefault: false
-
 commands:
     lookup:
         note:
@@ -41,6 +40,7 @@ commands:
             leaveTrace: false
             bubbleUpCreateNew: true
             fuzzThreshold: 0.2
+            vaultSelectionModeOnCreate: smart
     randomNote: {}
     insertNote:
         initialValue: templates
