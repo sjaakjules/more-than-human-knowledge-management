@@ -15,7 +15,7 @@ site:
     description: Ongoing research by Deep Design Lab.
     siteLastModified: true
     gh_edit_branch: main
-    logo: Vault-Megaflora/assets/images/logo.png
+    logo: /Vault-Megaflora/assets/images/logo.png
     duplicateNoteBehavior:
         action: useVault
         payload:
@@ -56,8 +56,6 @@ workspace:
                 type: git
                 url: 'https://github.com/sjaakjules/Vault-Megaflora'
             name: Vault-Megaflora
-        -
-            fsPath: vault
     journal:
         dailyDomain: daily
         name: journal
