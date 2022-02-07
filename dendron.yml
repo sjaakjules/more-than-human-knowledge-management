@@ -22,6 +22,7 @@ site:
     assetsPrefix: /more-than-human-knowledge-management
     siteUrl: 'https://sjaakjules.github.io'
     author: Deep Design Lab
+    logo: megaflora/assets/images/logo.png
     config:
         tags:
             publishByDefault: false
