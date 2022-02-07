@@ -15,11 +15,11 @@ site:
     description: Ongoing research by Deep Design Lab.
     siteLastModified: true
     gh_edit_branch: main
-    logo: Vault-Megafauna/assets/images/logo.png
+    logo: Vault-Megaflora/assets/images/logo.png
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - Vault-Megafauna
+            - Vault-megaflora
     assetsPrefix: /more-than-human-knowledge-management
     siteUrl: 'https://sjaakjules.github.io'
     author: Deep Design Lab
@@ -52,11 +52,11 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: Vault-Megafauna
+            fsPath: Vault-Megaflora
             remote:
                 type: git
-                url: 'https://github.com/sjaakjules/Vault-Megafauna'
-            name: Vault-Megafauna
+                url: 'https://github.com/sjaakjules/Vault-Megaflora'
+            name: Vault-Megaflora
         -
             fsPath: vault
     journal:
