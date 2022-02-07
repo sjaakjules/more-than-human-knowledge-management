@@ -15,7 +15,6 @@ site:
     description: Ongoing research by Deep Design Lab.
     siteLastModified: true
     gh_edit_branch: main
-    logo: /Vault-Megaflora/assets/images/logo.png
     duplicateNoteBehavior:
         action: useVault
         payload:
@@ -40,6 +39,7 @@ commands:
             leaveTrace: false
             bubbleUpCreateNew: true
             fuzzThreshold: 0.2
+            vaultSelectionModeOnCreate: smart
     randomNote: {}
     insertNote:
         initialValue: templates
