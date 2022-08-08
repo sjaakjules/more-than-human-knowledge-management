@@ -32,6 +32,8 @@ site:
             publishByDefault: false
         wip:
             publishByDefault: false
+publishing:
+    theme: dark
 commands:
     lookup:
         note:
