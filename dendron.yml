@@ -1,8 +1,4 @@
-version: 4
-useFMTitle: true
-useNoteTitleForLink: true
-mermaid: true
-useKatex: true
+version: 5
 dev:
     enablePreviewV2: true
 publishing:
@@ -123,6 +119,7 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableSmartRefs: false
+    dendronVersion: 0.83.0
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
