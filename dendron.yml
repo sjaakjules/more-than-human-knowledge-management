@@ -7,7 +7,7 @@ dev:
     enablePreviewV2: true
 publishing:
     copyAssets: true
-    theme: dark
+    theme: light
     siteHierarchies:
         - root
     siteRootDir: docs
@@ -15,13 +15,12 @@ publishing:
     enablePrettyLinks: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
+    enableSiteLastModified: true
     writeStubs: false
-
     seo:
         title: More-than-Human Knowledge Management
         description: Ongoing research by Deep Design Lab.
         author: Deep Design Lab
-    enableSiteLastModified: true
     github: 
         editBranch: main
         enableEditLink: false
