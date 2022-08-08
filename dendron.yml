@@ -21,15 +21,17 @@ publishing:
         title: More-than-Human Knowledge Management
         description: Ongoing research by Deep Design Lab.
         author: Deep Design Lab
-    github: 
+    github:
         editBranch: main
         enableEditLink: false
+        editLinkText: Edit this page on GitHub
+        editViewMode: tree
     duplicateNoteBehavior:
         action: useVault
         payload:
             - megaflora
     assetsPrefix: /more-than-human-knowledge-management
-    siteUrl: 'https://sjaakjules.github.io'
+    siteUrl: https://sjaakjules.github.io
     logoPath: megaflora/assets/images/logo.png
     hierarchy:
         tags:
@@ -40,10 +42,16 @@ publishing:
             publishByDefault: false
         wip:
             publishByDefault: false
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enableKatex: true
+    enableRandomlyColoredTags: true
+    enableTaskNotes: true
 commands:
     copyNoteLink:
         nonNoteFile:
-          anchorType: block
+            anchorType: block
     lookup:
         note:
             selectionMode: extract
@@ -58,6 +66,7 @@ commands:
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
+    templateHierarchy: template
 workspace:
     enableFullHierarchyNoteTitle: true
     enableHandlebarTemplates: true
@@ -66,7 +75,7 @@ workspace:
             fsPath: megaflora
             remote:
                 type: git
-                url: 'https://github.com/sjaakjules/megaflora'
+                url: https://github.com/sjaakjules/megaflora
             name: megaflora
     journal:
         dailyDomain: daily
@@ -78,7 +87,9 @@ workspace:
         dateFormat: y.MM.dd.HHmmss
         addBehavior: asOwnDomain
     task:
-        taskCompleteStatus: ["x", "done"]
+        taskCompleteStatus:
+            - x
+            - done
         name: ''
         dateFormat: ''
         addBehavior: childOfCurrent
@@ -111,6 +122,7 @@ workspace:
     enableEditorDecorations: true
     maxPreviewsCached: 10
     maxNoteLength: 204800
+    enableSmartRefs: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
