@@ -5,7 +5,7 @@ publishing:
     copyAssets: true
     theme: light
     siteHierarchies:
-        - megaflora
+        - root
     siteRootDir: docs
     enablePrettyRefs: true
     enablePrettyLinks: true
@@ -30,6 +30,10 @@ publishing:
     siteUrl: https://sjaakjules.github.io
     logoPath: megaflora/assets/images/logo.png
     hierarchy:
+        siteRootDir:
+            publishByDefault: true
+        root:
+            publishByDefault: true
         tags:
             publishByDefault: false
         themes:
