@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "megaflora"
+    },
+    {
       "path": "vault"
     }
   ],
@@ -14,7 +17,8 @@
     "editor.snippetSuggestions": "inline",
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showSnippets": true,
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "dendron.enableSelfContainedVaultWorkspace": true
   },
   "extensions": {
     "recommendations": [
@@ -25,6 +29,7 @@
     "unwantedRecommendations": [
       "dendron.dendron-markdown-links",
       "dendron.dendron-markdown-notes",
+      "dendron.dendron-markdown-preview-enhanced",
       "shd101wyy.markdown-preview-enhanced",
       "kortina.vscode-markdown-notes",
       "mushan.vscode-paste-image"

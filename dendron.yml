@@ -5,7 +5,7 @@ publishing:
     copyAssets: true
     theme: light
     siteHierarchies:
-        - exhibitions.the-last-of-their-kind
+        - megaflora
     siteRootDir: docs
     enablePrettyRefs: true
     enablePrettyLinks: true
