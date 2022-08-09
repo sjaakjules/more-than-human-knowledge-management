@@ -5,7 +5,7 @@ publishing:
     copyAssets: true
     theme: light
     siteHierarchies:
-        - root
+        - exhibitions.the-last-of-their-kind
     siteRootDir: docs
     enablePrettyRefs: true
     enablePrettyLinks: true
@@ -119,7 +119,7 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     enableSmartRefs: false
-    dendronVersion: 0.83.0
+    dendronVersion: 0.84.0
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
