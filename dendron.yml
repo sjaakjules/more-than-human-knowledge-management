@@ -4,6 +4,7 @@ dev:
 publishing:
     copyAssets: true
     theme: light
+    siteIndex: root
     siteHierarchies:
         - root
     siteRootDir: docs
@@ -12,6 +13,14 @@ publishing:
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableSiteLastModified: true
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enableKatex: true
+    enableRandomlyColoredTags: true
+    enableTaskNotes: true
+    enableHierarchyDisplay: true
+    hierarchyDisplayTitle: Childrens
     writeStubs: false
     seo:
         title: More-than-Human Knowledge Management
@@ -30,8 +39,6 @@ publishing:
     siteUrl: https://sjaakjules.github.io
     logoPath: megaflora/assets/images/logo.png
     hierarchy:
-        siteRootDir:
-            publishByDefault: true
         root:
             publishByDefault: true
         tags:
@@ -42,12 +49,6 @@ publishing:
             publishByDefault: false
         wip:
             publishByDefault: false
-    enableFMTitle: true
-    enableNoteTitleForLink: true
-    enableMermaid: true
-    enableKatex: true
-    enableRandomlyColoredTags: true
-    enableTaskNotes: true
 commands:
     copyNoteLink:
         nonNoteFile:
