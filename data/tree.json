@@ -1,0 +1,276 @@
+{
+  "roots": [
+    {
+      "key": "npb784d0vpf9ydd3bvsusi8",
+      "title": "More-than-Human Knowledge Management",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "megaflora",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "s44q1ashq9fxizynauvvuz7",
+          "title": "About",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "megaflora",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "8VirfUWXYmniktlweq9Wd",
+          "title": "Characters",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "megaflora",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "jwnqah1ogekvgz2seg1mdmi",
+              "title": "Regnans",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "xbbcklvhqvksuab2cb0erp6",
+                  "title": "1 Living Regnans",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "megaflora",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "1ytz3ulq2n2vy8d0hxilrkl",
+                  "title": "2 Dead Regnans",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "megaflora",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "muakfsb5dvaivw5vok6x36g",
+                  "title": "3 Collapsed Regnans",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "megaflora",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "hertaifuddiibnjx7k91wnm",
+              "title": "Stinky Lily",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "5wypchvdxh9xpqyzjtu5whe",
+                  "title": "Pollenator",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "megaflora",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ldcdzcpoqgti7gswqkt6lo2",
+              "title": "Yellowbox",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "iW9QIRuflqJCPiLcwA6Ve",
+          "title": "Events",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "megaflora",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "j7wawl5wd67t0pi4moj3fy7",
+              "title": "Decay",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "s6jc46l6vvvetx9hoj0zfup",
+              "title": "Fire",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "52ng9ynys7ni8uamydujml5",
+              "title": "Floral Traps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "m70v0qt28n11gy64yjwpr3r",
+              "title": "Land Clearing",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "2vxpAjyBwMn6ydqHAEFsS",
+          "title": "Exhibitions",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "megaflora",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "4nkxzqR8shWh8cxilfBD0",
+              "title": "The Last of Their Kind",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "rzy772ts2p25r5u0seqve7f",
+                  "title": "The Last Blooms",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "megaflora",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "wnj75m8odm2t6sd3f2oiskx",
+                  "title": "The Last Elders",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "megaflora",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "pnxbpq6qti8pw3zoiypuw2a",
+                  "title": "The Last Places",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "megaflora",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "0yuwfs3ygUNE8yRtUH3aK",
+          "title": "Methods",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "megaflora",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "886yny3a798uqfcb5pgeydt",
+              "title": "Surface Imaging",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "g7uhu97c55di49f6uqcmynf",
+              "title": "Tomography",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "lalicyyw0yc7cudwl70z4q9",
+          "title": "Stories",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "megaflora",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "9x6dfgsm5rbbovi57382wdb",
+              "title": "Uncertainty",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "m9h7f2cvjdev0t4bnk908kg",
+              "title": "Uniqueness",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "megaflora",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "npb784d0vpf9ydd3bvsusi8": null,
+    "lalicyyw0yc7cudwl70z4q9": "npb784d0vpf9ydd3bvsusi8",
+    "m9h7f2cvjdev0t4bnk908kg": "lalicyyw0yc7cudwl70z4q9",
+    "9x6dfgsm5rbbovi57382wdb": "lalicyyw0yc7cudwl70z4q9",
+    "0yuwfs3ygUNE8yRtUH3aK": "npb784d0vpf9ydd3bvsusi8",
+    "g7uhu97c55di49f6uqcmynf": "0yuwfs3ygUNE8yRtUH3aK",
+    "886yny3a798uqfcb5pgeydt": "0yuwfs3ygUNE8yRtUH3aK",
+    "2vxpAjyBwMn6ydqHAEFsS": "npb784d0vpf9ydd3bvsusi8",
+    "4nkxzqR8shWh8cxilfBD0": "2vxpAjyBwMn6ydqHAEFsS",
+    "pnxbpq6qti8pw3zoiypuw2a": "4nkxzqR8shWh8cxilfBD0",
+    "wnj75m8odm2t6sd3f2oiskx": "4nkxzqR8shWh8cxilfBD0",
+    "rzy772ts2p25r5u0seqve7f": "4nkxzqR8shWh8cxilfBD0",
+    "iW9QIRuflqJCPiLcwA6Ve": "npb784d0vpf9ydd3bvsusi8",
+    "m70v0qt28n11gy64yjwpr3r": "iW9QIRuflqJCPiLcwA6Ve",
+    "52ng9ynys7ni8uamydujml5": "iW9QIRuflqJCPiLcwA6Ve",
+    "s6jc46l6vvvetx9hoj0zfup": "iW9QIRuflqJCPiLcwA6Ve",
+    "j7wawl5wd67t0pi4moj3fy7": "iW9QIRuflqJCPiLcwA6Ve",
+    "8VirfUWXYmniktlweq9Wd": "npb784d0vpf9ydd3bvsusi8",
+    "ldcdzcpoqgti7gswqkt6lo2": "8VirfUWXYmniktlweq9Wd",
+    "hertaifuddiibnjx7k91wnm": "8VirfUWXYmniktlweq9Wd",
+    "5wypchvdxh9xpqyzjtu5whe": "hertaifuddiibnjx7k91wnm",
+    "jwnqah1ogekvgz2seg1mdmi": "8VirfUWXYmniktlweq9Wd",
+    "muakfsb5dvaivw5vok6x36g": "jwnqah1ogekvgz2seg1mdmi",
+    "1ytz3ulq2n2vy8d0hxilrkl": "jwnqah1ogekvgz2seg1mdmi",
+    "xbbcklvhqvksuab2cb0erp6": "jwnqah1ogekvgz2seg1mdmi",
+    "s44q1ashq9fxizynauvvuz7": "npb784d0vpf9ydd3bvsusi8"
+  }
+}

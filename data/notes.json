@@ -1,0 +1,2348 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1662520460294,
+      "created": 1662520460295,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "npb784d0vpf9ydd3bvsusi8": {
+      "id": "npb784d0vpf9ydd3bvsusi8",
+      "title": "More-than-Human Knowledge Management",
+      "desc": "",
+      "updated": 1642828130769,
+      "created": 1634169732979,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "ab861046aaa20a98f9b822f4c636a69a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "npb784d0vpf9ydd3bvsusi8",
+            "vaultName": "megaflora"
+          },
+          "value": "about",
+          "alias": "Deep Design Lab",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 186,
+              "offset": 375
+            },
+            "end": {
+              "line": 7,
+              "column": 211,
+              "offset": 400
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "about"
+          }
+        }
+      ],
+      "anchors": {
+        "wiki-structure": {
+          "type": "header",
+          "text": "Wiki structure",
+          "value": "wiki-structure",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "mission-statement": {
+          "type": "header",
+          "text": "Mission Statement",
+          "value": "mission-statement",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "significance-more-than-human-knowledge-management": {
+          "type": "header",
+          "text": "Significance: More-than-Human Knowledge Management",
+          "value": "significance-more-than-human-knowledge-management",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "gap-integrating-more-than-human-knowledge-is-an-open-and-difficult-challenge": {
+          "type": "header",
+          "text": "Gap: Integrating More-than-human knowledge is an open and difficult challenge",
+          "value": "gap-integrating-more-than-human-knowledge-is-an-open-and-difficult-challenge",
+          "line": 49,
+          "column": 0,
+          "depth": 3
+        },
+        "research-question": {
+          "type": "header",
+          "text": "Research Question",
+          "value": "research-question",
+          "line": 55,
+          "column": 0,
+          "depth": 3
+        },
+        "hypothesis": {
+          "type": "header",
+          "text": "Hypothesis",
+          "value": "hypothesis",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "s44q1ashq9fxizynauvvuz7",
+        "8VirfUWXYmniktlweq9Wd",
+        "iW9QIRuflqJCPiLcwA6Ve",
+        "2vxpAjyBwMn6ydqHAEFsS",
+        "0yuwfs3ygUNE8yRtUH3aK",
+        "lalicyyw0yc7cudwl70z4q9"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "lalicyyw0yc7cudwl70z4q9": {
+      "id": "lalicyyw0yc7cudwl70z4q9",
+      "title": "Stories",
+      "desc": "",
+      "updated": 1642700352978,
+      "created": 1642570394014,
+      "custom": {},
+      "fname": "stories",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "9765a8ea5df9e73101af008e3e9ba456",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "9x6dfgsm5rbbovi57382wdb",
+        "m9h7f2cvjdev0t4bnk908kg"
+      ],
+      "parent": "npb784d0vpf9ydd3bvsusi8",
+      "data": {}
+    },
+    "m9h7f2cvjdev0t4bnk908kg": {
+      "id": "m9h7f2cvjdev0t4bnk908kg",
+      "title": "Uniqueness",
+      "desc": "",
+      "updated": 1642750970866,
+      "created": 1634718130498,
+      "custom": {},
+      "fname": "stories.uniqueness",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "8f9d8e3313fddd32b34e47a097af88b4",
+      "links": [
+        {
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 256,
+              "offset": 1606
+            },
+            "end": {
+              "line": 15,
+              "column": 278,
+              "offset": 1628
+            },
+            "indent": []
+          },
+          "value": "stories.uniqueness",
+          "alias": "stories.uniqueness"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.SS-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 114,
+              "column": 49,
+              "offset": 5303
+            },
+            "end": {
+              "line": 114,
+              "column": 71,
+              "offset": 5325
+            },
+            "indent": []
+          },
+          "value": "stories.uniqueness",
+          "alias": "stories.uniqueness"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.applicationBackup",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 110,
+              "column": 49,
+              "offset": 5029
+            },
+            "end": {
+              "line": 110,
+              "column": 71,
+              "offset": 5051
+            },
+            "indent": []
+          },
+          "value": "stories.uniqueness",
+          "alias": "stories.uniqueness"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.endlings-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 115,
+              "column": 49,
+              "offset": 5304
+            },
+            "end": {
+              "line": 115,
+              "column": 71,
+              "offset": 5326
+            },
+            "indent": []
+          },
+          "value": "stories.uniqueness",
+          "alias": "stories.uniqueness"
+        }
+      ],
+      "anchors": {
+        "fire": {
+          "type": "header",
+          "text": "Fire",
+          "value": "fire",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "sites": {
+          "type": "header",
+          "text": "Sites",
+          "value": "sites",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        },
+        "1-tolken-track-styx": {
+          "type": "header",
+          "text": "(1) Tolken Track, Styx",
+          "value": "1-tolken-track-styx",
+          "line": 46,
+          "column": 0,
+          "depth": 3
+        },
+        "2-bennets-road": {
+          "type": "header",
+          "text": "(2) Bennets Road",
+          "value": "2-bennets-road",
+          "line": 57,
+          "column": 0,
+          "depth": 2
+        },
+        "3arve-large-tree": {
+          "type": "header",
+          "text": "(3)Arve large tree",
+          "value": "3arve-large-tree",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        },
+        "tree-overview": {
+          "type": "header",
+          "text": "Tree Overview",
+          "value": "tree-overview",
+          "line": 72,
+          "column": 0,
+          "depth": 3
+        },
+        "tree-images": {
+          "type": "header",
+          "text": "Tree images",
+          "value": "tree-images",
+          "line": 89,
+          "column": 0,
+          "depth": 3
+        },
+        "surrounds": {
+          "type": "header",
+          "text": "Surrounds",
+          "value": "surrounds",
+          "line": 213,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "lalicyyw0yc7cudwl70z4q9",
+      "data": {}
+    },
+    "9x6dfgsm5rbbovi57382wdb": {
+      "id": "9x6dfgsm5rbbovi57382wdb",
+      "title": "Uncertainty",
+      "desc": "",
+      "updated": 1642749270969,
+      "created": 1634716730164,
+      "custom": {},
+      "fname": "stories.uncertainty",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "38e4d2da3c79424edaef2a9434252c3a",
+      "links": [
+        {
+          "from": {
+            "fname": "administration.meetings",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 225
+            },
+            "end": {
+              "line": 17,
+              "column": 24,
+              "offset": 248
+            },
+            "indent": []
+          },
+          "value": "stories.uncertainty",
+          "alias": "stories.uncertainty"
+        },
+        {
+          "from": {
+            "fname": "wip.argument-plan",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 158,
+              "column": 60,
+              "offset": 9537
+            },
+            "end": {
+              "line": 158,
+              "column": 83,
+              "offset": 9560
+            },
+            "indent": []
+          },
+          "value": "stories.uncertainty",
+          "alias": "stories.uncertainty"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.venues",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 159,
+              "column": 1,
+              "offset": 11126
+            },
+            "end": {
+              "line": 159,
+              "column": 32,
+              "offset": 11157
+            },
+            "indent": []
+          },
+          "value": "stories.uncertainty"
+        },
+        {
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 479,
+              "offset": 650
+            },
+            "end": {
+              "line": 8,
+              "column": 502,
+              "offset": 673
+            },
+            "indent": []
+          },
+          "value": "stories.uncertainty",
+          "alias": "stories.uncertainty"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.SS-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 114,
+              "column": 21,
+              "offset": 5275
+            },
+            "end": {
+              "line": 114,
+              "column": 44,
+              "offset": 5298
+            },
+            "indent": []
+          },
+          "value": "stories.uncertainty",
+          "alias": "stories.uncertainty"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.applicationBackup",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 110,
+              "column": 21,
+              "offset": 5001
+            },
+            "end": {
+              "line": 110,
+              "column": 44,
+              "offset": 5024
+            },
+            "indent": []
+          },
+          "value": "stories.uncertainty",
+          "alias": "stories.uncertainty"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.endlings-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 115,
+              "column": 21,
+              "offset": 5276
+            },
+            "end": {
+              "line": 115,
+              "column": 44,
+              "offset": 5299
+            },
+            "indent": []
+          },
+          "value": "stories.uncertainty",
+          "alias": "stories.uncertainty"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "lalicyyw0yc7cudwl70z4q9",
+      "data": {}
+    },
+    "0yuwfs3ygUNE8yRtUH3aK": {
+      "id": "0yuwfs3ygUNE8yRtUH3aK",
+      "title": "Methods",
+      "desc": "",
+      "updated": 1642828513999,
+      "created": 1634270636682,
+      "stub": true,
+      "custom": {
+        "stub": true
+      },
+      "fname": "methods",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "2465227ead2378491cf8fe6e2c875c84",
+      "links": [
+        {
+          "from": {
+            "fname": "administration.framework",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 3,
+              "offset": 580
+            },
+            "end": {
+              "line": 17,
+              "column": 14,
+              "offset": 591
+            },
+            "indent": []
+          },
+          "value": "methods",
+          "alias": "methods"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "886yny3a798uqfcb5pgeydt",
+        "g7uhu97c55di49f6uqcmynf"
+      ],
+      "parent": "npb784d0vpf9ydd3bvsusi8",
+      "data": {}
+    },
+    "g7uhu97c55di49f6uqcmynf": {
+      "id": "g7uhu97c55di49f6uqcmynf",
+      "title": "Tomography",
+      "desc": "",
+      "updated": 1653396955367,
+      "created": 1634711490081,
+      "custom": {},
+      "fname": "methods.tomography",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "18173a5520842eac24646000e116f2c4",
+      "links": [
+        {
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 412,
+              "offset": 1086
+            },
+            "end": {
+              "line": 10,
+              "column": 444,
+              "offset": 1118
+            },
+            "indent": []
+          },
+          "value": "methods.tomography",
+          "alias": "radiation"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.SS-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 126,
+              "column": 1,
+              "offset": 6069
+            },
+            "end": {
+              "line": 126,
+              "column": 24,
+              "offset": 6092
+            },
+            "indent": []
+          },
+          "value": "methods.tomography"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.applicationBackup",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 122,
+              "column": 1,
+              "offset": 5795
+            },
+            "end": {
+              "line": 122,
+              "column": 24,
+              "offset": 5818
+            },
+            "indent": []
+          },
+          "value": "methods.tomography"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.endlings-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 127,
+              "column": 1,
+              "offset": 6070
+            },
+            "end": {
+              "line": 127,
+              "column": 24,
+              "offset": 6093
+            },
+            "indent": []
+          },
+          "value": "methods.tomography"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "objectives": {
+          "type": "header",
+          "text": "Objectives",
+          "value": "objectives",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "scanned-objects": {
+          "type": "header",
+          "text": "Scanned Objects",
+          "value": "scanned-objects",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0yuwfs3ygUNE8yRtUH3aK",
+      "data": {}
+    },
+    "886yny3a798uqfcb5pgeydt": {
+      "id": "886yny3a798uqfcb5pgeydt",
+      "title": "Surface Imaging",
+      "desc": "",
+      "updated": 1653396970407,
+      "created": 1634881492630,
+      "custom": {},
+      "fname": "methods.surface-imaging",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "0715d4bbdbecc354531c1c3d5d97e394",
+      "links": [
+        {
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 366,
+              "offset": 1040
+            },
+            "end": {
+              "line": 10,
+              "column": 407,
+              "offset": 1081
+            },
+            "indent": []
+          },
+          "value": "methods.surface-imaging",
+          "alias": "laser imaging"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.SS-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 124,
+              "column": 1,
+              "offset": 6039
+            },
+            "end": {
+              "line": 124,
+              "column": 29,
+              "offset": 6067
+            },
+            "indent": []
+          },
+          "value": "methods.surface-imaging"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.applicationBackup",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 120,
+              "column": 1,
+              "offset": 5765
+            },
+            "end": {
+              "line": 120,
+              "column": 29,
+              "offset": 5793
+            },
+            "indent": []
+          },
+          "value": "methods.surface-imaging"
+        },
+        {
+          "from": {
+            "fname": "administration.dissemination.isea.endlings-application",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 125,
+              "column": 1,
+              "offset": 6040
+            },
+            "end": {
+              "line": 125,
+              "column": 29,
+              "offset": 6068
+            },
+            "indent": []
+          },
+          "value": "methods.surface-imaging"
+        }
+      ],
+      "anchors": {
+        "terrestrial-lidar-imaging": {
+          "type": "header",
+          "text": "Terrestrial Lidar Imaging",
+          "value": "terrestrial-lidar-imaging",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "structured-light-scanning": {
+          "type": "header",
+          "text": "Structured light Scanning",
+          "value": "structured-light-scanning",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0yuwfs3ygUNE8yRtUH3aK",
+      "data": {}
+    },
+    "2vxpAjyBwMn6ydqHAEFsS": {
+      "id": "2vxpAjyBwMn6ydqHAEFsS",
+      "title": "Exhibitions",
+      "desc": "",
+      "updated": 1642700320387,
+      "created": 1642572582054,
+      "stub": true,
+      "custom": {
+        "stub": true
+      },
+      "fname": "exhibitions",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "a21e47127d3337637669d8da48eac603",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4nkxzqR8shWh8cxilfBD0"
+      ],
+      "parent": "npb784d0vpf9ydd3bvsusi8",
+      "data": {}
+    },
+    "4nkxzqR8shWh8cxilfBD0": {
+      "id": "4nkxzqR8shWh8cxilfBD0",
+      "title": "The Last of Their Kind",
+      "desc": "",
+      "updated": 1659934319280,
+      "created": 1642491171998,
+      "custom": {},
+      "fname": "exhibitions.the-last-of-their-kind",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "8a0446c2dff32ebee5e6160661b93b1a",
+      "links": [],
+      "anchors": {
+        "biographies": {
+          "type": "header",
+          "text": "Biographies",
+          "value": "biographies",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "acknowledgements": {
+          "type": "header",
+          "text": "Acknowledgements",
+          "value": "acknowledgements",
+          "line": 45,
+          "column": 0,
+          "depth": 3
+        },
+        "image-credits": {
+          "type": "header",
+          "text": "Image Credits",
+          "value": "image-credits",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "rzy772ts2p25r5u0seqve7f",
+        "wnj75m8odm2t6sd3f2oiskx",
+        "pnxbpq6qti8pw3zoiypuw2a"
+      ],
+      "parent": "2vxpAjyBwMn6ydqHAEFsS",
+      "data": {}
+    },
+    "pnxbpq6qti8pw3zoiypuw2a": {
+      "id": "pnxbpq6qti8pw3zoiypuw2a",
+      "title": "The Last Places",
+      "desc": "",
+      "updated": 1644204987553,
+      "created": 1642491678663,
+      "custom": {},
+      "fname": "exhibitions.the-last-of-their-kind.places",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "fc320cd7472b994427f52b15847a8e0b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "4nkxzqR8shWh8cxilfBD0",
+      "data": {}
+    },
+    "wnj75m8odm2t6sd3f2oiskx": {
+      "id": "wnj75m8odm2t6sd3f2oiskx",
+      "title": "The Last Elders",
+      "desc": "",
+      "updated": 1644203506532,
+      "created": 1642491638223,
+      "custom": {},
+      "fname": "exhibitions.the-last-of-their-kind.elders",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "a5c7aba4d60b9abd6c1fd0931f213eb6",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "id": "wnj75m8odm2t6sd3f2oiskx",
+            "vaultName": "megaflora"
+          },
+          "value": "stories.uncertainty",
+          "alias": "stories.uncertainty",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 479,
+              "offset": 650
+            },
+            "end": {
+              "line": 8,
+              "column": 502,
+              "offset": 673
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "stories.uncertainty"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "id": "wnj75m8odm2t6sd3f2oiskx",
+            "vaultName": "megaflora"
+          },
+          "value": "methods.surface-imaging",
+          "alias": "laser imaging",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 366,
+              "offset": 1040
+            },
+            "end": {
+              "line": 10,
+              "column": 407,
+              "offset": 1081
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "methods.surface-imaging"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "id": "wnj75m8odm2t6sd3f2oiskx",
+            "vaultName": "megaflora"
+          },
+          "value": "methods.tomography",
+          "alias": "radiation",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 412,
+              "offset": 1086
+            },
+            "end": {
+              "line": 10,
+              "column": 444,
+              "offset": 1118
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "methods.tomography"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "exhibitions.the-last-of-their-kind.elders",
+            "id": "wnj75m8odm2t6sd3f2oiskx",
+            "vaultName": "megaflora"
+          },
+          "value": "stories.uniqueness",
+          "alias": "stories.uniqueness",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 256,
+              "offset": 1606
+            },
+            "end": {
+              "line": 15,
+              "column": 278,
+              "offset": 1628
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "stories.uniqueness"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "4nkxzqR8shWh8cxilfBD0",
+      "data": {}
+    },
+    "rzy772ts2p25r5u0seqve7f": {
+      "id": "rzy772ts2p25r5u0seqve7f",
+      "title": "The Last Blooms",
+      "desc": "",
+      "updated": 1644203965028,
+      "created": 1642491646456,
+      "custom": {},
+      "fname": "exhibitions.the-last-of-their-kind.blooms",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "d7814b81046df5786f3a1bb57dde7a1b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "4nkxzqR8shWh8cxilfBD0",
+      "data": {}
+    },
+    "iW9QIRuflqJCPiLcwA6Ve": {
+      "id": "iW9QIRuflqJCPiLcwA6Ve",
+      "title": "Events",
+      "desc": "",
+      "updated": 1642700362408,
+      "created": 1642567470412,
+      "stub": true,
+      "custom": {
+        "stub": true
+      },
+      "fname": "events",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "2ae6481d446a866ccf9ea84a1c22b666",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "j7wawl5wd67t0pi4moj3fy7",
+        "s6jc46l6vvvetx9hoj0zfup",
+        "52ng9ynys7ni8uamydujml5",
+        "m70v0qt28n11gy64yjwpr3r"
+      ],
+      "parent": "npb784d0vpf9ydd3bvsusi8",
+      "data": {}
+    },
+    "m70v0qt28n11gy64yjwpr3r": {
+      "id": "m70v0qt28n11gy64yjwpr3r",
+      "title": "Land Clearing",
+      "desc": "",
+      "updated": 1642748975655,
+      "created": 1642568935322,
+      "custom": {},
+      "fname": "events.land-clearing",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "115de34f76c161caf87363726b5b17d1",
+      "links": [
+        {
+          "from": {
+            "fname": "characters.regnans.1-living-regnans",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 166,
+              "offset": 167
+            },
+            "end": {
+              "line": 3,
+              "column": 204,
+              "offset": 205
+            },
+            "indent": []
+          },
+          "value": "events.land-clearing",
+          "alias": "land clearing"
+        }
+      ],
+      "anchors": {
+        "logging": {
+          "type": "header",
+          "text": "Logging",
+          "value": "logging",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "logging-at-the-styx": {
+          "type": "header",
+          "text": "Logging at the Styx.",
+          "value": "logging-at-the-styx",
+          "line": 16,
+          "column": 0,
+          "depth": 4
+        },
+        "recognition": {
+          "type": "header",
+          "text": "Recognition",
+          "value": "recognition",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "measurement": {
+          "type": "header",
+          "text": "Measurement",
+          "value": "measurement",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "iW9QIRuflqJCPiLcwA6Ve",
+      "data": {}
+    },
+    "52ng9ynys7ni8uamydujml5": {
+      "id": "52ng9ynys7ni8uamydujml5",
+      "title": "Floral Traps",
+      "desc": "",
+      "updated": 1642761487612,
+      "created": 1642587244870,
+      "custom": {},
+      "fname": "events.floral-traps",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "2d8136d0a6531606a881a00d49c0534e",
+      "links": [],
+      "anchors": {
+        "brood-site-deception": {
+          "type": "header",
+          "text": "Brood-site Deception",
+          "value": "brood-site-deception",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "formal-characteristics": {
+          "type": "header",
+          "text": "Formal Characteristics",
+          "value": "formal-characteristics",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "spathe-surface": {
+          "type": "header",
+          "text": "Spathe surface",
+          "value": "spathe-surface",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "thermogenesis-within-the-typhonium-appendix": {
+          "type": "header",
+          "text": "Thermogenesis within the Typhonium appendix",
+          "value": "thermogenesis-within-the-typhonium-appendix",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "scent-production": {
+          "type": "header",
+          "text": "Scent production",
+          "value": "scent-production",
+          "line": 39,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "iW9QIRuflqJCPiLcwA6Ve",
+      "data": {}
+    },
+    "s6jc46l6vvvetx9hoj0zfup": {
+      "id": "s6jc46l6vvvetx9hoj0zfup",
+      "title": "Fire",
+      "desc": "",
+      "updated": 1642567646312,
+      "created": 1642567470390,
+      "custom": {},
+      "fname": "events.fire",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "a87324fd9ebca20956f73e3c70d0581a",
+      "links": [
+        {
+          "from": {
+            "fname": "characters.regnans.1-living-regnans",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 141,
+              "offset": 142
+            },
+            "end": {
+              "line": 3,
+              "column": 161,
+              "offset": 162
+            },
+            "indent": []
+          },
+          "value": "events.fire",
+          "alias": "fire"
+        },
+        {
+          "from": {
+            "fname": "characters.regnans.2-dead-regnans",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 136,
+              "offset": 137
+            },
+            "end": {
+              "line": 3,
+              "column": 156,
+              "offset": 157
+            },
+            "indent": []
+          },
+          "value": "events.fire",
+          "alias": "fire"
+        },
+        {
+          "from": {
+            "fname": "characters.regnans.3-collapsed-regnans",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 204,
+              "offset": 205
+            },
+            "end": {
+              "line": 3,
+              "column": 224,
+              "offset": 225
+            },
+            "indent": []
+          },
+          "value": "events.fire",
+          "alias": "fire"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "iW9QIRuflqJCPiLcwA6Ve",
+      "data": {}
+    },
+    "j7wawl5wd67t0pi4moj3fy7": {
+      "id": "j7wawl5wd67t0pi4moj3fy7",
+      "title": "Decay",
+      "desc": "",
+      "updated": 1642828109006,
+      "created": 1634853986134,
+      "custom": {},
+      "fname": "events.decay",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "dcd5a5dc083a9bd9851327be702c0cc1",
+      "links": [
+        {
+          "from": {
+            "fname": "wip.argument-plan",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 160,
+              "column": 47,
+              "offset": 9609
+            },
+            "end": {
+              "line": 160,
+              "column": 63,
+              "offset": 9625
+            },
+            "indent": []
+          },
+          "value": "events.decay",
+          "alias": "events.decay"
+        }
+      ],
+      "anchors": {
+        "background": {
+          "type": "header",
+          "text": "Background",
+          "value": "background",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "bark-streamers": {
+          "type": "header",
+          "text": "Bark streamers",
+          "value": "bark-streamers",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        },
+        "inhabitants-of-bark": {
+          "type": "header",
+          "text": "Inhabitants of bark",
+          "value": "inhabitants-of-bark",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "fallen-logs": {
+          "type": "header",
+          "text": "Fallen logs",
+          "value": "fallen-logs",
+          "line": 51,
+          "column": 0,
+          "depth": 2
+        },
+        "inhabitants-of-fallen-logs-and-dead-trunks": {
+          "type": "header",
+          "text": "Inhabitants of fallen logs and dead trunks",
+          "value": "inhabitants-of-fallen-logs-and-dead-trunks",
+          "line": 55,
+          "column": 0,
+          "depth": 2
+        },
+        "near-surface-habitats": {
+          "type": "header",
+          "text": "Near surface habitats",
+          "value": "near-surface-habitats",
+          "line": 59,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "iW9QIRuflqJCPiLcwA6Ve",
+      "data": {}
+    },
+    "8VirfUWXYmniktlweq9Wd": {
+      "id": "8VirfUWXYmniktlweq9Wd",
+      "title": "Characters",
+      "desc": "",
+      "updated": 1642828497149,
+      "created": 1635307855065,
+      "stub": true,
+      "custom": {
+        "stub": true
+      },
+      "fname": "characters",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "95061ef98ff98b3b5e7bfc1f441f84b9",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "jwnqah1ogekvgz2seg1mdmi",
+        "hertaifuddiibnjx7k91wnm",
+        "ldcdzcpoqgti7gswqkt6lo2"
+      ],
+      "parent": "npb784d0vpf9ydd3bvsusi8",
+      "data": {}
+    },
+    "ldcdzcpoqgti7gswqkt6lo2": {
+      "id": "ldcdzcpoqgti7gswqkt6lo2",
+      "title": "Yellowbox",
+      "desc": "",
+      "updated": 1642760933790,
+      "created": 1642570142686,
+      "custom": {},
+      "fname": "characters.yellowbox",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "0fcf6ae7631cbc25484edfe91860602c",
+      "links": [],
+      "anchors": {
+        "family-myrtaceae--genus--eucalyptus": {
+          "type": "header",
+          "text": "Family: Myrtaceae | Genus:  Eucalyptus",
+          "value": "family-myrtaceae--genus--eucalyptus",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "8VirfUWXYmniktlweq9Wd",
+      "data": {}
+    },
+    "hertaifuddiibnjx7k91wnm": {
+      "id": "hertaifuddiibnjx7k91wnm",
+      "title": "Stinky Lily",
+      "desc": "",
+      "updated": 1642749097711,
+      "created": 1642587018729,
+      "custom": {},
+      "fname": "characters.stinky-lily",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "97613c94ac019d7e0f42adf816f2dfd3",
+      "links": [],
+      "anchors": {
+        "family-araceae--genus--typhonium--species-brownii": {
+          "type": "header",
+          "text": "Family: Araceae | Genus:  Typhonium | Species: brownii",
+          "value": "family-araceae--genus--typhonium--species-brownii",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "anthesis-the-flowering-period": {
+          "type": "header",
+          "text": "Anthesis, the flowering period",
+          "value": "anthesis-the-flowering-period",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "floral-scent": {
+          "type": "header",
+          "text": "Floral scent",
+          "value": "floral-scent",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "plant-divergence": {
+          "type": "header",
+          "text": "Plant divergence",
+          "value": "plant-divergence",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "5wypchvdxh9xpqyzjtu5whe"
+      ],
+      "parent": "8VirfUWXYmniktlweq9Wd",
+      "data": {}
+    },
+    "5wypchvdxh9xpqyzjtu5whe": {
+      "id": "5wypchvdxh9xpqyzjtu5whe",
+      "title": "Pollenator",
+      "desc": "",
+      "updated": 1642760903547,
+      "created": 1642587036394,
+      "custom": {},
+      "fname": "characters.stinky-lily.pollenator",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "e6dd94b213180287ce847ad504bd493c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "hertaifuddiibnjx7k91wnm",
+      "data": {}
+    },
+    "jwnqah1ogekvgz2seg1mdmi": {
+      "id": "jwnqah1ogekvgz2seg1mdmi",
+      "title": "Regnans",
+      "desc": "",
+      "updated": 1642760511067,
+      "created": 1635307855059,
+      "custom": {},
+      "fname": "characters.regnans",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "809b52c904b4b8acb52a4d71056bbe1a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "characters.regnans",
+            "id": "jwnqah1ogekvgz2seg1mdmi",
+            "vaultName": "megaflora"
+          },
+          "value": "characters.regnans.1-living-regnans",
+          "alias": "Living tree",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 4,
+              "offset": 1092
+            },
+            "end": {
+              "line": 19,
+              "column": 55,
+              "offset": 1143
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "characters.regnans.1-living-regnans"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "characters.regnans",
+            "id": "jwnqah1ogekvgz2seg1mdmi",
+            "vaultName": "megaflora"
+          },
+          "value": "characters.regnans.2-dead-regnans",
+          "alias": "Dead tree",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 4,
+              "offset": 1167
+            },
+            "end": {
+              "line": 20,
+              "column": 51,
+              "offset": 1214
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "characters.regnans.2-dead-regnans"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "characters.regnans",
+            "id": "jwnqah1ogekvgz2seg1mdmi",
+            "vaultName": "megaflora"
+          },
+          "value": "characters.regnans.3-collapsed-regnans",
+          "alias": "Collapsed tree",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 4,
+              "offset": 1255
+            },
+            "end": {
+              "line": 21,
+              "column": 61,
+              "offset": 1312
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "characters.regnans.3-collapsed-regnans"
+          }
+        }
+      ],
+      "anchors": {
+        "family-myrtaceae--genus--eucalyptus--species-regnans": {
+          "type": "header",
+          "text": "Family: Myrtaceae | Genus:  Eucalyptus | Species: regnans",
+          "value": "family-myrtaceae--genus--eucalyptus--species-regnans",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "characters": {
+          "type": "header",
+          "text": "Characters",
+          "value": "characters",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "xbbcklvhqvksuab2cb0erp6",
+        "1ytz3ulq2n2vy8d0hxilrkl",
+        "muakfsb5dvaivw5vok6x36g"
+      ],
+      "parent": "8VirfUWXYmniktlweq9Wd",
+      "data": {}
+    },
+    "muakfsb5dvaivw5vok6x36g": {
+      "id": "muakfsb5dvaivw5vok6x36g",
+      "title": "3 Collapsed Regnans",
+      "desc": "",
+      "updated": 1642760607387,
+      "created": 1642566037134,
+      "custom": {},
+      "fname": "characters.regnans.3-collapsed-regnans",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "636aafb6ce5acfda7484be186166a9f0",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "characters.regnans.3-collapsed-regnans",
+            "id": "muakfsb5dvaivw5vok6x36g",
+            "vaultName": "megaflora"
+          },
+          "value": "events.fire",
+          "alias": "fire",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 204,
+              "offset": 205
+            },
+            "end": {
+              "line": 3,
+              "column": 224,
+              "offset": 225
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "events.fire"
+          }
+        },
+        {
+          "from": {
+            "fname": "characters.regnans",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 4,
+              "offset": 1255
+            },
+            "end": {
+              "line": 21,
+              "column": 61,
+              "offset": 1312
+            },
+            "indent": []
+          },
+          "value": "characters.regnans.3-collapsed-regnans",
+          "alias": "Collapsed tree"
+        }
+      ],
+      "anchors": {
+        "arve-large-tree": {
+          "type": "header",
+          "text": "Arve large tree",
+          "value": "arve-large-tree",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "jwnqah1ogekvgz2seg1mdmi",
+      "data": {}
+    },
+    "1ytz3ulq2n2vy8d0hxilrkl": {
+      "id": "1ytz3ulq2n2vy8d0hxilrkl",
+      "title": "2 Dead Regnans",
+      "desc": "",
+      "updated": 1642760577396,
+      "created": 1642566029072,
+      "custom": {},
+      "fname": "characters.regnans.2-dead-regnans",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "66870a77399a1683feca3935aa030626",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "characters.regnans.2-dead-regnans",
+            "id": "1ytz3ulq2n2vy8d0hxilrkl",
+            "vaultName": "megaflora"
+          },
+          "value": "events.fire",
+          "alias": "fire",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 136,
+              "offset": 137
+            },
+            "end": {
+              "line": 3,
+              "column": 156,
+              "offset": 157
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "events.fire"
+          }
+        },
+        {
+          "from": {
+            "fname": "characters.regnans",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 4,
+              "offset": 1167
+            },
+            "end": {
+              "line": 20,
+              "column": 51,
+              "offset": 1214
+            },
+            "indent": []
+          },
+          "value": "characters.regnans.2-dead-regnans",
+          "alias": "Dead tree"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "jwnqah1ogekvgz2seg1mdmi",
+      "data": {}
+    },
+    "xbbcklvhqvksuab2cb0erp6": {
+      "id": "xbbcklvhqvksuab2cb0erp6",
+      "title": "1 Living Regnans",
+      "desc": "",
+      "updated": 1642764689063,
+      "created": 1642566011430,
+      "custom": {},
+      "fname": "characters.regnans.1-living-regnans",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "78f43fe03c35e0470eba021e85a0beda",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "characters.regnans.1-living-regnans",
+            "id": "xbbcklvhqvksuab2cb0erp6",
+            "vaultName": "megaflora"
+          },
+          "value": "events.fire",
+          "alias": "fire",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 141,
+              "offset": 142
+            },
+            "end": {
+              "line": 3,
+              "column": 161,
+              "offset": 162
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "events.fire"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "characters.regnans.1-living-regnans",
+            "id": "xbbcklvhqvksuab2cb0erp6",
+            "vaultName": "megaflora"
+          },
+          "value": "events.land-clearing",
+          "alias": "land clearing",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 166,
+              "offset": 167
+            },
+            "end": {
+              "line": 3,
+              "column": 204,
+              "offset": 205
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "events.land-clearing"
+          }
+        },
+        {
+          "from": {
+            "fname": "characters.regnans",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 4,
+              "offset": 1092
+            },
+            "end": {
+              "line": 19,
+              "column": 55,
+              "offset": 1143
+            },
+            "indent": []
+          },
+          "value": "characters.regnans.1-living-regnans",
+          "alias": "Living tree"
+        }
+      ],
+      "anchors": {
+        "location-tolken-track-styx": {
+          "type": "header",
+          "text": "Location: Tolken Track, Styx",
+          "value": "location-tolken-track-styx",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "agent-euclytpus-regans": {
+          "type": "header",
+          "text": "Agent: Euclytpus regans",
+          "value": "agent-euclytpus-regans",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "jwnqah1ogekvgz2seg1mdmi",
+      "data": {}
+    },
+    "s44q1ashq9fxizynauvvuz7": {
+      "id": "s44q1ashq9fxizynauvvuz7",
+      "title": "About",
+      "desc": "",
+      "updated": 1642771530288,
+      "created": 1642698151718,
+      "custom": {},
+      "fname": "about",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "70fa41b4b01e505bf11f8393687f0fef",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "megaflora"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 186,
+              "offset": 375
+            },
+            "end": {
+              "line": 7,
+              "column": 211,
+              "offset": 400
+            },
+            "indent": []
+          },
+          "value": "about",
+          "alias": "Deep Design Lab"
+        }
+      ],
+      "anchors": {
+        "active-members": {
+          "type": "header",
+          "text": "Active Members",
+          "value": "active-members",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "supporting-members": {
+          "type": "header",
+          "text": "Supporting Members",
+          "value": "supporting-members",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "npb784d0vpf9ydd3bvsusi8",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "npb784d0vpf9ydd3bvsusi8",
+      "title": "More-than-Human Knowledge Management",
+      "desc": "",
+      "updated": 1642828130769,
+      "created": 1634169732979,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "megaflora",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/sjaakjules/megaflora"
+        },
+        "name": "megaflora"
+      },
+      "contentHash": "ab861046aaa20a98f9b822f4c636a69a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "npb784d0vpf9ydd3bvsusi8",
+            "vaultName": "megaflora"
+          },
+          "value": "about",
+          "alias": "Deep Design Lab",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 186,
+              "offset": 375
+            },
+            "end": {
+              "line": 7,
+              "column": 211,
+              "offset": 400
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "about"
+          }
+        }
+      ],
+      "anchors": {
+        "wiki-structure": {
+          "type": "header",
+          "text": "Wiki structure",
+          "value": "wiki-structure",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "mission-statement": {
+          "type": "header",
+          "text": "Mission Statement",
+          "value": "mission-statement",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "significance-more-than-human-knowledge-management": {
+          "type": "header",
+          "text": "Significance: More-than-Human Knowledge Management",
+          "value": "significance-more-than-human-knowledge-management",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "gap-integrating-more-than-human-knowledge-is-an-open-and-difficult-challenge": {
+          "type": "header",
+          "text": "Gap: Integrating More-than-human knowledge is an open and difficult challenge",
+          "value": "gap-integrating-more-than-human-knowledge-is-an-open-and-difficult-challenge",
+          "line": 49,
+          "column": 0,
+          "depth": 3
+        },
+        "research-question": {
+          "type": "header",
+          "text": "Research Question",
+          "value": "research-question",
+          "line": 55,
+          "column": 0,
+          "depth": 3
+        },
+        "hypothesis": {
+          "type": "header",
+          "text": "Hypothesis",
+          "value": "hypothesis",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "s44q1ashq9fxizynauvvuz7",
+        "loby6lultrptbuoy6bmlkn3",
+        "8VirfUWXYmniktlweq9Wd",
+        "iW9QIRuflqJCPiLcwA6Ve",
+        "2vxpAjyBwMn6ydqHAEFsS",
+        "0yuwfs3ygUNE8yRtUH3aK",
+        "lalicyyw0yc7cudwl70z4q9",
+        "igp2jlfua79zq9yheb9086x",
+        "wb6e5n93e8sjsj9ctpuf6eu"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n\n![](/assets/images/2022-01-22-00-51-53.png)\n\nWhat is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.\n\nThis research wiki is divided into two sections the research cluster and dissemination. The research cluster is populated from collaborative projects conducted by a research collective [[Deep Design Lab|about]]. Dissemination are moments when the research coalesce into an exhibit.\n\n## Wiki structure\n\n- _About_ - Information on wiki authors and project collaborators.\n- _Exhibitions_ - Stories and exhibits for dissemination.\n  - The Last of their Kind - Exhibit for SIGGRAPH 2022\n- _Methods_ - Details the various methods, techniques and technologies used.\n  - Surface imaging\n  - Tomography\n- _Characters_ - Research on more-than-human characters of interest.\n  - regnans\n  - Stinky lily\n  - Yellowbox\n- _Events_ - Noteworthy events involving the characters.\n  - Decay\n  - Fire\n  - Floral traps\n  - Land Clearing\n- _Stories_ - Combination of characters and events worth telling.\n  - Decay\n  - Uncertainty\n  - Uniqueness\n\n## Mission Statement\n\n### Significance: More-than-Human Knowledge Management\n\nThe unfolding environmental crisis calls for better understanding and management of the Earth’s habitats. The ever-increasing amount of data humans gather about the planet is a common strategy for the assessment of the impact and the planning of remediation. Our research seeks to expand the notion of knowledge management to include nonhuman lifeforms as empowered contributors to collective storytelling. We argue that this redefinition of data, storytelling and knowledge is necessary in the era where human-centred approaches fail to address ecological devastation.\n\nOne example is giant *E. regnans* trees in Tasmania. These organisms grow to become some of of the tallest and most massive organisms in the world, and are critically important habitats for many forms of life. Increasing bushfires due to climate change pose an ongoing existential threat. For instance, the 2018-2019 bushfire killed over 50% of Tasmania's trees over 90m and significantly injured many more. Due to the immense time-periods it takes for these trees to grow (500-700 years), experts say that we may never see such trees again.\n\nMostly as a result of the work of local activists, new giant trees have been discovered and stands of them have been afforded protection due to their campaigns. Such work is needed as Tasmania's regnans forests are still logged. While trees over 85 meters are legislatively protected, large volume trees are not. Many of these trees are older and more massive than the tallest trees but may have lost some height due to lightning strikes and other environmental factors. Furthermore, this legislation does not protect younger *E. regnans* trees, threatening the next generation of giant trees. Activists, ecologists and others seek to document Tasmania's giant trees to increase their recognition and preserve information about these rapidly disappearing structures.\n\nOur ongoing research has collected high resolution data describing these and other large old trees and we learn ways to read their meaning. There are many challenges to collecting this data  due to the trees' size, structural complexity and remote locations. Furthermore, understanding meaning is an open and difficult challenge because elements of ecosystems mean different things to different inhabitants. We suggest that humans can only find answers to these questions through an approach that invites contributions not only from humans but also from birds, trees, and others.\n\n### Gap: Integrating More-than-human knowledge is an open and difficult challenge\n\nRecent work emphasise that knowledge is better understood as clusters that are different, partial, problematic, and heterogenous. For instance, researchers increasingly understand the interdisciplinary nature (crossing scientific disciplines, crossing into the humanities, etc) of environmental challenges. Further research acknowledges the benefits of integrating the diverse forms ecological knowledge can take. For instance, knowledge about ecological management can take the form of formal scientific hypothesis-testing but is also retained and expressed in longer periods of time through practices such as indigenous story-telling and other cultural memories.\n\nThe next step is recognising that  clusters of knowledge are not limited to humans. Nonhumans have forms of knowledge too. Traces of these clusters -- or knowledge objects -- are expressed in genes, patterns of behaviour, and nonhuman cultures. The differences can be large due to different evolutionary backgrounds, life histories, mutual (in)visibilities, and the inherently incompatible needs of different lifeforms.\n\n### Research Question\n\nHow can more-than-human knowledge be organised and expressed to maximise inclusivity about nonhuman places and lifeforms?\n\n### Hypothesis\n\nTechnologically amplified stories can help to capture, make inclusive and communicate human and more-than-human forms of knowledge.\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "npb784d0vpf9ydd3bvsusi8",
+    "title": "More-than-Human Knowledge Management",
+    "desc": "",
+    "updated": 1642828130769,
+    "created": 1634169732979,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "megaflora",
+      "remote": {
+        "type": "git",
+        "url": "https://github.com/sjaakjules/megaflora"
+      },
+      "name": "megaflora"
+    },
+    "contentHash": "ab861046aaa20a98f9b822f4c636a69a",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "npb784d0vpf9ydd3bvsusi8",
+          "vaultName": "megaflora"
+        },
+        "value": "about",
+        "alias": "Deep Design Lab",
+        "position": {
+          "start": {
+            "line": 7,
+            "column": 186,
+            "offset": 375
+          },
+          "end": {
+            "line": 7,
+            "column": 211,
+            "offset": 400
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "about"
+        }
+      }
+    ],
+    "anchors": {
+      "wiki-structure": {
+        "type": "header",
+        "text": "Wiki structure",
+        "value": "wiki-structure",
+        "line": 15,
+        "column": 0,
+        "depth": 2
+      },
+      "mission-statement": {
+        "type": "header",
+        "text": "Mission Statement",
+        "value": "mission-statement",
+        "line": 37,
+        "column": 0,
+        "depth": 2
+      },
+      "significance-more-than-human-knowledge-management": {
+        "type": "header",
+        "text": "Significance: More-than-Human Knowledge Management",
+        "value": "significance-more-than-human-knowledge-management",
+        "line": 39,
+        "column": 0,
+        "depth": 3
+      },
+      "gap-integrating-more-than-human-knowledge-is-an-open-and-difficult-challenge": {
+        "type": "header",
+        "text": "Gap: Integrating More-than-human knowledge is an open and difficult challenge",
+        "value": "gap-integrating-more-than-human-knowledge-is-an-open-and-difficult-challenge",
+        "line": 49,
+        "column": 0,
+        "depth": 3
+      },
+      "research-question": {
+        "type": "header",
+        "text": "Research Question",
+        "value": "research-question",
+        "line": 55,
+        "column": 0,
+        "depth": 3
+      },
+      "hypothesis": {
+        "type": "header",
+        "text": "Hypothesis",
+        "value": "hypothesis",
+        "line": 59,
+        "column": 0,
+        "depth": 3
+      }
+    },
+    "children": [
+      "s44q1ashq9fxizynauvvuz7",
+      "loby6lultrptbuoy6bmlkn3",
+      "8VirfUWXYmniktlweq9Wd",
+      "iW9QIRuflqJCPiLcwA6Ve",
+      "2vxpAjyBwMn6ydqHAEFsS",
+      "0yuwfs3ygUNE8yRtUH3aK",
+      "lalicyyw0yc7cudwl70z4q9",
+      "igp2jlfua79zq9yheb9086x",
+      "wb6e5n93e8sjsj9ctpuf6eu"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n\n![](/assets/images/2022-01-22-00-51-53.png)\n\nWhat is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.\n\nThis research wiki is divided into two sections the research cluster and dissemination. The research cluster is populated from collaborative projects conducted by a research collective [[Deep Design Lab|about]]. Dissemination are moments when the research coalesce into an exhibit.\n\n## Wiki structure\n\n- _About_ - Information on wiki authors and project collaborators.\n- _Exhibitions_ - Stories and exhibits for dissemination.\n  - The Last of their Kind - Exhibit for SIGGRAPH 2022\n- _Methods_ - Details the various methods, techniques and technologies used.\n  - Surface imaging\n  - Tomography\n- _Characters_ - Research on more-than-human characters of interest.\n  - regnans\n  - Stinky lily\n  - Yellowbox\n- _Events_ - Noteworthy events involving the characters.\n  - Decay\n  - Fire\n  - Floral traps\n  - Land Clearing\n- _Stories_ - Combination of characters and events worth telling.\n  - Decay\n  - Uncertainty\n  - Uniqueness\n\n## Mission Statement\n\n### Significance: More-than-Human Knowledge Management\n\nThe unfolding environmental crisis calls for better understanding and management of the Earth’s habitats. The ever-increasing amount of data humans gather about the planet is a common strategy for the assessment of the impact and the planning of remediation. Our research seeks to expand the notion of knowledge management to include nonhuman lifeforms as empowered contributors to collective storytelling. We argue that this redefinition of data, storytelling and knowledge is necessary in the era where human-centred approaches fail to address ecological devastation.\n\nOne example is giant *E. regnans* trees in Tasmania. These organisms grow to become some of of the tallest and most massive organisms in the world, and are critically important habitats for many forms of life. Increasing bushfires due to climate change pose an ongoing existential threat. For instance, the 2018-2019 bushfire killed over 50% of Tasmania's trees over 90m and significantly injured many more. Due to the immense time-periods it takes for these trees to grow (500-700 years), experts say that we may never see such trees again.\n\nMostly as a result of the work of local activists, new giant trees have been discovered and stands of them have been afforded protection due to their campaigns. Such work is needed as Tasmania's regnans forests are still logged. While trees over 85 meters are legislatively protected, large volume trees are not. Many of these trees are older and more massive than the tallest trees but may have lost some height due to lightning strikes and other environmental factors. Furthermore, this legislation does not protect younger *E. regnans* trees, threatening the next generation of giant trees. Activists, ecologists and others seek to document Tasmania's giant trees to increase their recognition and preserve information about these rapidly disappearing structures.\n\nOur ongoing research has collected high resolution data describing these and other large old trees and we learn ways to read their meaning. There are many challenges to collecting this data  due to the trees' size, structural complexity and remote locations. Furthermore, understanding meaning is an open and difficult challenge because elements of ecosystems mean different things to different inhabitants. We suggest that humans can only find answers to these questions through an approach that invites contributions not only from humans but also from birds, trees, and others.\n\n### Gap: Integrating More-than-human knowledge is an open and difficult challenge\n\nRecent work emphasise that knowledge is better understood as clusters that are different, partial, problematic, and heterogenous. For instance, researchers increasingly understand the interdisciplinary nature (crossing scientific disciplines, crossing into the humanities, etc) of environmental challenges. Further research acknowledges the benefits of integrating the diverse forms ecological knowledge can take. For instance, knowledge about ecological management can take the form of formal scientific hypothesis-testing but is also retained and expressed in longer periods of time through practices such as indigenous story-telling and other cultural memories.\n\nThe next step is recognising that  clusters of knowledge are not limited to humans. Nonhumans have forms of knowledge too. Traces of these clusters -- or knowledge objects -- are expressed in genes, patterns of behaviour, and nonhuman cultures. The differences can be large due to different evolutionary backgrounds, life histories, mutual (in)visibilities, and the inherently incompatible needs of different lifeforms.\n\n### Research Question\n\nHow can more-than-human knowledge be organised and expressed to maximise inclusivity about nonhuman places and lifeforms?\n\n### Hypothesis\n\nTechnologically amplified stories can help to capture, make inclusive and communicate human and more-than-human forms of knowledge.\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "megaflora",
+      "remote": {
+        "type": "git",
+        "url": "https://github.com/sjaakjules/megaflora"
+      },
+      "name": "megaflora"
+    }
+  ]
+}
